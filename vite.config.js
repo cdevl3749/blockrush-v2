@@ -3,5 +3,6 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/blockrush/", // <= IMPORTANT pour GitHub Pages
+  base: "/blockrush-v2/", // <= IMPORTANT pour GitHub Pages
 });
+
