@@ -3,6 +3,10 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/blockrush-v2/", // CORRECT pour GitHub Pages
+  base: "/blockrush-v2/",
+  build: {
+    outDir: "dist",
+  },
 });
+
 
