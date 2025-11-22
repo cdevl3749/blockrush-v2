@@ -1,0 +1,154 @@
+{
+  "siteTitle": "BlockRush.io",
+  "tagline": "The Block Rush",
+  "nav": {
+    "home": "Home",
+    "progress": "Progress",
+    "participate": "Participate",
+    "faq": "FAQ",
+    "participants": "Participants"
+  },
+  "progress": {
+    "title": "Funding Progress",
+    "raised": "Raised",
+    "goal": "Goal",
+    "backers": "Backers",
+    "timeline": "Installation within 14 days after goal reached"
+  },
+  "hero": {
+    "title": "Join the Next Bitcoin Block Discovery",
+    "subtitle": "Invest in 5 Bitmain Antminer S19 XP and share the rewards",
+    "earlyBird": "🔥 FIRST 50 PARTICIPANTS: +10% BONUS SHARES",
+    "cta": "Join the Adventure",
+    "stats": {
+      "miners": "Active Miners",
+      "target": "Target Miners",
+      "participants": "Participants"
+    }
+  },
+  "about": {
+    "title": "🎰 What is BlockRush?",
+    "description": "BlockRush transforms Bitcoin mining into a collective opportunity. With our Bitmain Antminer S19 XP (2 already active, 5 to fund), each participant becomes part of a decentralized lottery. With every block discovered, rewards are shared proportionally among all contributors.",
+    "highlight": "Every 10 minutes, a chance to be part of Bitcoin history!"
+  },
+  "rewards": {
+    "title": "💰 Reward Example",
+    "subtitle": "If we discover a Bitcoin block",
+    "blockReward": "Block reward",
+    "currentReward": "3.125 BTC + fees",
+    "yourShare": "Your potential share",
+    "example": "Example: With €50 invested (2 shares out of 1000 total)",
+    "calculation": "= 0.00625 BTC",
+    "inEuro": "Approximately €531 at current price",
+    "disclaimer": "Rewards depend on actual block discovery. Mining is probabilistic with no guaranteed returns."
+  },
+  "pricing": {
+    "title": "Choose Your Participation",
+    "subtitle": "All funds are secured. Full refund if goal is not reached.",
+    "starter": {
+      "name": "Starter",
+      "price": "€25",
+      "shares": "share"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "€50",
+      "shares": "shares",
+      "popular": "POPULAR"
+    },
+    "elite": {
+      "name": "Elite",
+      "price": "€100",
+      "shares": "shares"
+    },
+    "custom": {
+      "name": "Custom",
+      "price": "Your amount",
+      "min": "Min: €10"
+    },
+    "features": [
+      "Proportional share of rewards",
+      "Full blockchain transparency",
+      "Guaranteed refund if goal not met",
+      "Real-time dashboard access"
+    ],
+    "participate": "Participate Now"
+  },
+  "payment": {
+    "title": "Bitcoin Payment",
+    "address": "Bitcoin Address",
+    "scan": "Scan QR Code",
+    "copy": "Copy address",
+    "copied": "Copied!",
+    "amount": "Your participation amount",
+    "soon": "Coming soon: Credit card payment",
+    "close": "Close"
+  },
+  "guarantee": {
+    "title": "100% Refund Guarantee",
+    "description": "If we don't reach the funding goal, all participants will be fully refunded. Your funds are secure."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about BlockRush",
+    "questions": [
+      {
+        "q": "How does BlockRush work?",
+        "a": "BlockRush is a crowdfunding platform to purchase Bitcoin miners (Bitmain Antminer S19 XP). Each participant receives shares proportional to their investment and shares the mining rewards discovered."
+      },
+      {
+        "q": "What are the risks?",
+        "a": "Bitcoin mining offers no guaranteed returns. Block discovery is random. If the funding goal isn't reached, you get a 100% refund. Rewards depend on luck and Bitcoin network difficulty."
+      },
+      {
+        "q": "How are rewards distributed?",
+        "a": "If a Bitcoin block is discovered by our miners, the reward (currently 3.125 BTC + fees) is distributed proportionally among all participants according to their shares. Example: if you have 2% of shares, you receive 2% of the reward."
+      },
+      {
+        "q": "Can I withdraw my investment?",
+        "a": "Before goal is reached: full refund possible. After miners are purchased: your investment is converted into mining shares. Future rewards will be paid to you in Bitcoin."
+      },
+      {
+        "q": "How long does the project last?",
+        "a": "Funding continues until reaching €25,000. Once the goal is reached, miners are installed within 14 days and run 24/7 to attempt discovering Bitcoin blocks."
+      },
+      {
+        "q": "How to track performance?",
+        "a": "You'll have access to a real-time dashboard showing: computing power, mining attempts, and all transactions. Total transparency guaranteed via blockchain."
+      }
+    ]
+  },
+  "participants": {
+    "title": "Our Participants",
+    "recent": "Recent participations"
+  },
+  "footer": {
+    "description": "BlockRush.io - The collective Bitcoin mining revolution",
+    "legal": "Legal Notice",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "cookies": "Cookie Settings",
+    "rights": "All rights reserved",
+    "payments": "Accepted payments",
+    "trust": "Security and trust"
+  },
+  "cookie": {
+    "message": "We use cookies to improve your experience.",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "modals": {
+    "legal": {
+      "title": "Legal Notice",
+      "content": "BlockRush.io is a crowdfunding platform for acquiring Bitcoin mining equipment. Publisher: BlockRush SAS - Headquarters: Belgium - Contact: legal@blockrush.io"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "content": "In accordance with GDPR, your personal data is collected solely for managing your participation. You have the right to access, rectify and delete your data. DPO Contact: privacy@blockrush.io"
+    },
+    "terms": {
+      "title": "Terms of Use",
+      "content": "By participating in BlockRush, you accept: (1) You invest in mining equipment, not in a return promise. (2) Bitcoin rewards are distributed proportionally. (3) Full refund if goal is not reached. (4) Risks related to Bitcoin volatility."
+    }
+  }
+}
