@@ -1,0 +1,154 @@
+{
+  "siteTitle": "BlockRush.io",
+  "tagline": "La Ruée vers le Bloc",
+  "nav": {
+    "home": "Accueil",
+    "progress": "Progression",
+    "participate": "Participer",
+    "faq": "FAQ",
+    "participants": "Participants"
+  },
+  "progress": {
+    "title": "Progression du Financement",
+    "raised": "Levés",
+    "goal": "Objectif",
+    "backers": "Contributeurs",
+    "timeline": "Installation sous 14 jours après objectif atteint"
+  },
+  "hero": {
+    "title": "Participez à la Découverte du Prochain Bloc Bitcoin",
+    "subtitle": "Investissez dans 5 Bitmain Antminer S19 XP et partagez les récompenses",
+    "earlyBird": "🔥 50 PREMIERS PARTICIPANTS : +10% DE PARTS BONUS",
+    "cta": "Rejoindre l'Aventure",
+    "stats": {
+      "miners": "Mineurs Actifs",
+      "target": "Mineurs Cibles",
+      "participants": "Participants"
+    }
+  },
+  "about": {
+    "title": "🎰 Qu'est-ce que BlockRush ?",
+    "description": "BlockRush transforme le minage Bitcoin en opportunité collective. Avec nos Bitmain Antminer S19 XP (2 déjà actifs, 5 à financer), chaque participant devient acteur d'une loterie décentralisée. À chaque bloc découvert, les récompenses sont partagées proportionnellement entre tous les contributeurs.",
+    "highlight": "Chaque 10 minutes, une chance de faire partie de l'histoire Bitcoin !"
+  },
+  "rewards": {
+    "title": "💰 Exemple de Récompense",
+    "subtitle": "Si nous découvrons un bloc Bitcoin",
+    "blockReward": "Récompense par bloc",
+    "currentReward": "3.125 BTC + frais",
+    "yourShare": "Votre part potentielle",
+    "example": "Exemple : Avec 50€ investis (2 parts sur 1000 total)",
+    "calculation": "= 0.00625 BTC",
+    "inEuro": "Soit environ 531€ au prix actuel",
+    "disclaimer": "Les récompenses dépendent de la découverte effective d'un bloc. Le minage est probabiliste, sans garantie de gains."
+  },
+  "pricing": {
+    "title": "Choisissez Votre Participation",
+    "subtitle": "Tous les fonds sont sécurisés. Remboursement intégral si l'objectif n'est pas atteint.",
+    "starter": {
+      "name": "Starter",
+      "price": "25€",
+      "shares": "part"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "50€",
+      "shares": "parts",
+      "popular": "POPULAIRE"
+    },
+    "elite": {
+      "name": "Elite",
+      "price": "100€",
+      "shares": "parts"
+    },
+    "custom": {
+      "name": "Personnalisé",
+      "price": "Votre montant",
+      "min": "Min: 10€"
+    },
+    "features": [
+      "Part proportionnelle des récompenses",
+      "Transparence blockchain totale",
+      "Remboursement garanti si objectif non atteint",
+      "Accès au dashboard en temps réel"
+    ],
+    "participate": "Participer Maintenant"
+  },
+  "payment": {
+    "title": "Paiement Bitcoin",
+    "address": "Adresse Bitcoin",
+    "scan": "Scannez le QR Code",
+    "copy": "Copier l'adresse",
+    "copied": "Copié !",
+    "amount": "Montant de votre participation",
+    "soon": "Bientôt : Paiement par carte bancaire",
+    "close": "Fermer"
+  },
+  "guarantee": {
+    "title": "Garantie de Remboursement à 100%",
+    "description": "Si nous n'atteignons pas l'objectif de financement, tous les participants seront intégralement remboursés. Vos fonds sont sécurisés."
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "subtitle": "Tout ce que vous devez savoir sur BlockRush",
+    "questions": [
+      {
+        "q": "Comment fonctionne BlockRush ?",
+        "a": "BlockRush est une plateforme de financement participatif pour acheter des mineurs Bitcoin (Bitmain Antminer S19 XP). Chaque participant reçoit des parts proportionnelles à son investissement et partage les récompenses de minage découvertes."
+      },
+      {
+        "q": "Quels sont les risques ?",
+        "a": "Le minage Bitcoin n'offre aucune garantie de rendement. La découverte d'un bloc est aléatoire. Si l'objectif de financement n'est pas atteint, vous êtes remboursé à 100%. Les récompenses dépendent de la chance et de la difficulté du réseau Bitcoin."
+      },
+      {
+        "q": "Comment sont distribuées les récompenses ?",
+        "a": "Si un bloc Bitcoin est découvert par nos mineurs, la récompense (actuellement 3.125 BTC + frais) est distribuée proportionnellement entre tous les participants selon leurs parts. Exemple : si vous avez 2% des parts, vous recevez 2% de la récompense."
+      },
+      {
+        "q": "Puis-je retirer mon investissement ?",
+        "a": "Avant que l'objectif soit atteint : remboursement intégral possible. Après l'achat des mineurs : votre investissement est converti en parts de minage. Les récompenses futures vous seront versées en Bitcoin."
+      },
+      {
+        "q": "Combien de temps dure le projet ?",
+        "a": "Le financement dure jusqu'à atteindre 25 000€. Une fois l'objectif atteint, les mineurs sont installés sous 14 jours et fonctionnent 24/7 pour tenter de découvrir des blocs Bitcoin."
+      },
+      {
+        "q": "Comment suivre les performances ?",
+        "a": "Vous aurez accès à un dashboard en temps réel montrant : la puissance de calcul, les tentatives de minage, et toutes les transactions. Transparence totale garantie via la blockchain."
+      }
+    ]
+  },
+  "participants": {
+    "title": "Nos Participants",
+    "recent": "Dernières participations"
+  },
+  "footer": {
+    "description": "BlockRush.io - La révolution du minage Bitcoin collectif",
+    "legal": "Mentions Légales",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "cookies": "Gestion des Cookies",
+    "rights": "Tous droits réservés",
+    "payments": "Paiements acceptés",
+    "trust": "Sécurité et confiance"
+  },
+  "cookie": {
+    "message": "Nous utilisons des cookies pour améliorer votre expérience.",
+    "accept": "Accepter",
+    "decline": "Refuser"
+  },
+  "modals": {
+    "legal": {
+      "title": "Mentions Légales",
+      "content": "BlockRush.io est une plateforme de financement participatif pour l'acquisition de matériel de minage Bitcoin. Éditeur : BlockRush SAS - Siège social : Belgique - Contact : legal@blockrush.io"
+    },
+    "privacy": {
+      "title": "Politique de Confidentialité",
+      "content": "Conformément au RGPD, vos données personnelles sont collectées uniquement pour la gestion de votre participation. Vous disposez d'un droit d'accès, de rectification et de suppression. Contact DPO : privacy@blockrush.io"
+    },
+    "terms": {
+      "title": "Conditions d'Utilisation",
+      "content": "En participant à BlockRush, vous acceptez les conditions suivantes : (1) Vous investissez dans du matériel de minage, pas dans une promesse de rendement. (2) Les récompenses Bitcoin sont distribuées proportionnellement. (3) Remboursement intégral si l'objectif n'est pas atteint. (4) Risques liés à la volatilité du Bitcoin."
+    }
+  }
+}

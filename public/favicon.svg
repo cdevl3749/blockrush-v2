@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Fond dégradé -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Cercle de fond -->
+  <circle cx="50" cy="50" r="48" fill="url(#grad1)"/>
+  
+  <!-- Éclair stylisé (comme le logo Zap) -->
+  <path d="M 55 20 L 35 55 L 50 55 L 45 80 L 70 40 L 55 40 Z" 
+        fill="#ffffff" 
+        stroke="#fbbf24" 
+        stroke-width="2"/>
+  
+  <!-- Symbole Bitcoin subtil -->
+  <text x="50" y="90" 
+        font-family="Arial, sans-serif" 
+        font-size="16" 
+        font-weight="bold" 
+        fill="#fbbf24" 
+        text-anchor="middle">₿</text>
+</svg>
